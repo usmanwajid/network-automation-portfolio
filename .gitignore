@@ -1,0 +1,6 @@
+.env
+*.tfstate
+*.tfstate.*
+backups/
+__pycache__/
+venv/
